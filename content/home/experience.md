@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Quality Control Intern
+    company: Taylor Corporation
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Mankato, Minnesota
+    date_start: '01-17-2020'
+    date_end: '05-08-2020'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analyzing
+        * Testing
+        * Validating and Reporting
         
-  - title: Professor
-    company: University X
+  - title: Tech Advisor
+    company: ResTech Services, Minnesota State Universty, Mankato
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Mankato, Minnesota
+    date_start: '03-01-2018'
+    date_end: '12-04-2019'
+    description: 
 ---
